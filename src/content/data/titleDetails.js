@@ -1,6 +1,6 @@
-export const NAME = "Tim Plette"
+export const NAME = "William Sutton"
 
-export const JOB_TITLE = "Website Portfolio Designer";
+export const JOB_TITLE = "Software Developer";
 
 export const DESC = 
-`Easy to use portfolio website template: Bring your job hunt or admission app to life!`
+`Recent graduate looking for full time opportunities`
