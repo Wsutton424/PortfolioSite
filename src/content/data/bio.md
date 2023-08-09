@@ -1,26 +1,20 @@
 ---
 slug: "/bio"
-title: "Who is Tim Plette?"
+title: "Who is William Sutton?"
 page: "bio"
 ---
 
 ## Welcome!
-Hey! This is a website template that you can use to develop your **OWN PORTFOLIO WEBSITE!** Isn't that neat? 
+My Name is William Sutton, I am a recent graduate from the University of South Carolina 
 
-### How to get started
-You can begin by editing these markdown files to insert your own content. The [bio](/bio) file can be your starting place to tell the world a bit about yourself, while each card on the project page will give you a spot to highlight your achievements!
+### Bio
+My experiences at the Koger Center for the Arts, where I produce a 2-hour weekly live radio show, have honed my ability to thrive in a fast-paced, team-oriented environment while maintaining professionalism on the air. As a former Vice president and team captain of the USC Cybersecurity Club, I led a group of talented students in the 2022 Palmetto Cyber Defense Competition, receiving the MVP award. My time at Cycrypt, a local cybersecurity solutions firm, provided valuable real-world experience in consumer-oriented software development and meeting strict deadlines.
 
-#### Smaller Title
-You'll be able to add [links](https://example.com) and pictures!
+Combining academic achievements, practical experiences, and industry certifications, I possess a comprehensive perspective on software development and security. I am eager to contribute my technical expertise, leadership skills, and adaptability.
 
+#### Exlpore my other projects
 
-![picture](../logo.png)
-
-
-
-##### An even smaller title!
-
-*Plus, with simple knowledge of HTML, CSS and Javascript, you can make all sorts of wonderful modifications. Nothing is off limits if your mind can dream it and your fingers can get the code on the page!*
+*Feel free to email me any questions you might have or simply connect with me on LinkedIn!*
 
 
 

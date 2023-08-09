@@ -4,10 +4,10 @@ title: "How can I get in touch?"
 page: "contact"
 ---
 
-
-Here is where you will put any contact information. This could be the same links and information in your social icon links, or spot to put a personal [email address](mailto:Tim.Plette@WebsitePortfolioDesign-FakeDomain.com).
+You can reach me easiest by [email](mailto:wsutton424@gmail.com). I should be able to respond within the day!
             
-If you have many links you need to display, consider
-* Using a list like this!
-* [Add some Javascript or other Markdown features](javascript:alert("You_can_use_Javascript_too"))
-* Spice it up with **Bold** or *italics*. 
+**Social Media**
+* [LinkedIn](link:https://www.linkedin.com/in/williammagnosutton/)
+* [Handshake](https://sc.joinhandshake.com/stu/users/21752730)
+* [Github](https://github.com/Wsutton424)
+ 
