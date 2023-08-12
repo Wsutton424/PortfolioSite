@@ -1,10 +1,10 @@
 export const projectInformation = [
     {
-        "title":"Created a Portfolio Website Template",
-        "name":"Github Open Source Project",
-        "date":"July 2023 - Present",
-        "data":"I created a template that YOU can use to make a simple portfolio website! Use it to: impress your friends, get a job, show off your fun project, or just get into web development.",
-        "href":"https://github.com/Josh-Beck/Portfolio-Website-Template"
+        "title":"Created a Android based Language learning app",
+        "name":"Pweek: The Pohnpeian language Learning app",
+        "date":"Aug 2022 - May 2023",
+        "data":"We set out to create a language learning app to help preserve and assist in the teaching of the Micronesian Language of Pohnpeian. I created the database for account creation and login as well as acting as head language consultant",
+        "href":"https://sccapstone.github.io/Downpour/"
     },
     {
         "title":"Project Title",
