@@ -12,7 +12,7 @@ My experiences at the Koger Center for the Arts, where I produce a 2-hour weekly
 
 Combining academic achievements, practical experiences, and industry certifications, I possess a comprehensive perspective on software development and security. I am eager to contribute my technical expertise, leadership skills, and adaptability.
 
-#### Exlpore my other projects
+#### Exlpore my other projects!
 
 *Feel free to email me any questions you might have or simply connect with me on LinkedIn!*
 
